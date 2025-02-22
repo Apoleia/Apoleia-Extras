@@ -2,20 +2,14 @@
 <rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
-    <title>TestRSS</title>
+    <title>Apoleia</title>
     <link />
-    <description>One Two Peanut Butter
-Two Three Jam</description>
+    <description />
     <language>en-us</language>
     <item>
-      <title>wow</title>
-      <pubDate>Sat, 22 Feb 2025 02:27:57 -0500</pubDate>
-      <description><![CDATA[<h1>woohee yippee</h1>]]></description>
-    </item>
-    <item>
-      <title>weenies are crazy</title>
-      <pubDate>Fri, 21 Feb 2025 22:46:42 -0500</pubDate>
-      <description><![CDATA[wowee zoweee the world is INSANE!]]></description>
+      <title>Setting up RSS!</title>
+      <pubDate>Sat, 22 Feb 2025 03:37:20 -0500</pubDate>
+      <description><![CDATA[I think it is honestly time to add RSS support for my website, so I can do posts directly on my website. Since a majority of the web isn't exactly aware that Neocities has a social media-like aspect on its main site, where you can comment on people's walls, like posts, see updates, etc. So, I've decided to finally move everything to this side. On occassion, I'll still post on the main site, since most folk in the community still look at it. But yeah, RSS baby!!!!]]></description>
     </item>
   </channel>
 </rss>
