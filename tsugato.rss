@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>TestRSS</title>
+    <link />
+    <description>One Two Peanut Butter
+Two Three Jam</description>
+    <language>en-us</language>
+    <item>
+      <title>weenies are crazy</title>
+      <pubDate>Fri, 21 Feb 2025 22:46:42 -0500</pubDate>
+      <description><![CDATA[wowee zoweee the world is INSANE!]]></description>
+    </item>
+  </channel>
+</rss>
